@@ -1,1 +1,0 @@
-/usr/bin/cc CMakeFiles/hoger_lager.dir/main.c.o -o hoger_lager  -Wl,-rpath,/home/arne/ses/depcmake/build/internal/scorebord:/home/arne/ses/depcmake/build/_deps/cjson-build internal/scorebord/libscorebord.so -Wl,-rpath-link,/home/arne/ses/depcmake/build/_deps/cjson-build 

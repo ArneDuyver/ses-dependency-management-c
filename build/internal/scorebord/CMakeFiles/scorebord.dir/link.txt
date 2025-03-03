@@ -1,1 +1,0 @@
-/usr/bin/cc -fPIC -shared -Wl,-soname,libscorebord.so -o libscorebord.so CMakeFiles/scorebord.dir/scorebord.c.o  -Wl,-rpath,/home/arne/ses/depcmake/build/_deps/cjson-build ../../_deps/cjson-build/libcjson.so.1.7.14 -lm 
